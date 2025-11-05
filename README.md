@@ -3,7 +3,8 @@
 
 In this project I made a personal portfolio purely in HTML & CSS.
 
-
+> [!NOTE]
+> Här är nåt viktigt som jag bör komma ihåg.
 
 
 ## Authors
@@ -13,13 +14,31 @@ In this project I made a personal portfolio purely in HTML & CSS.
 
 ## Demo
 
-Insert gif or link to demo
+**Insert gif** or _link to demo_
+
+<em>Kursiv text</em>
 
 https://randomnickname123456789.github.io/improved-chainsaw/
 
 <img width="789" height="438" alt="image" src="https://github.com/user-attachments/assets/228c1ade-5938-4c1e-ace8-64f2b5eefae6" />
 
+```html
+<button>Klicka på mig</button>
+```
 
+```javascript
+const name = 'Kalle Anka';
+```
+
+```css
+body {
+  background-color: yellow;
+}
+```
+
+```shell
+npm install
+```
 
 ## Features
 
