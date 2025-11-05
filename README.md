@@ -1,5 +1,12 @@
-
 # HTML & CSS - Inlämningsuppgift 1
+
+## Validering
+<img width="1877" height="487" alt="image" src="https://github.com/user-attachments/assets/fded844c-6705-4d4b-9c83-8774e6ab050e" />
+
+
+
+
+
 
 In this project I made a personal portfolio purely in HTML & CSS.
 
