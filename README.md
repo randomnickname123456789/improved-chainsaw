@@ -17,6 +17,9 @@ Insert gif or link to demo
 
 https://randomnickname123456789.github.io/improved-chainsaw/
 
+<img width="789" height="438" alt="image" src="https://github.com/user-attachments/assets/228c1ade-5938-4c1e-ace8-64f2b5eefae6" />
+
+
 
 ## Features
 
